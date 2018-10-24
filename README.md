@@ -1,2 +1,2 @@
 # CV
-This CV is made using Latex
+Another try to create CV using Latex
